@@ -32,7 +32,7 @@ print ("\33[0;32m|version: 1.1.0 BLACK-DDOS 2020           |")
 print ("\33[0;32m|Team   : ANONYMOUS CYBER TEAM INDONESIA  |")
 print ("\33[31;1m===========================================")
 print
-ip = raw_input("IP Target : ")
+ip = raw_input("IP or hostname Target : ")
 port = input("Port       : ")
 
 os.system("clear")
